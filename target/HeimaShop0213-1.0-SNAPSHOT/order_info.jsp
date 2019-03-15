@@ -24,12 +24,10 @@ body {
 </style>
 
 <script type="text/javascript">
-	function confirmOrder(){
-		//提交表单
-		$("#orderForm").submit();
-	}
-
-
+	function confirmOrder() {
+        //提交表单
+        $("#orderForm").submit();
+    }
 </script>
 
 </head>
@@ -83,10 +81,10 @@ body {
 
 		<div>
 			<hr />
-			<form id="orderForm" class="form-horizontal" action="${pageContext.request.contextPath }/product" method="post"
+			<form id="orderForm" class="form-horizontal" action="${pageContext.request.contextPath }/callback" method="post"
 				style="margin-top: 5px; margin-left: 150px;">
 				<!-- method的名字 通过表单提交 -->
-				<input type="hidden" name="method" value="confirmOrder">
+				<%--<input type="hidden" name="method" value="confirmOrder">--%>
 				<!-- 传递订单oid -->
 				<input type="hidden" name="oid" value="${order.oid }">
 				

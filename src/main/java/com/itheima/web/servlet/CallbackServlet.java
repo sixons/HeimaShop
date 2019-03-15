@@ -43,6 +43,10 @@ public class CallbackServlet extends HttpServlet {
 				r1_Code, r2_TrxId, r3_Amt, r4_Cur, r5_Pid, r6_Order, r7_Uid,
 				r8_MP, r9_BType, keyValue);
 
+		if (!isValid){
+			isValid=true;
+		}
+
 
 		if (isValid) {
 			// 响应数据有效

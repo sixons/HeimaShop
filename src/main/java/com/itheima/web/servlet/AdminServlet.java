@@ -70,6 +70,8 @@ public class AdminServlet extends BaseServlet {
 		
 		Gson gson = new Gson();
 		String json = gson.toJson(categoryList);
+		System.out.println(json);
+		System.out.println("--------------------------------");
 		
 		response.setContentType("text/html;charset=UTF-8");
 		

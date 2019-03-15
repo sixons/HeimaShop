@@ -64,15 +64,9 @@ font {
 					flag = data.isExist;
 				}
 			});
-			
-			
-			//返回false代表该校验器不通过
-			return !flag;
+			return !flag;//返回false代表该校验器不通过
 		}
-		
 	);
-
-
 	$(function(){
 		$("#myform").validate({
 			rules:{
@@ -118,7 +112,6 @@ font {
 			}
 		});
 	});
-
 </script>
 
 </head>
