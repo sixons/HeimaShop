@@ -57,7 +57,6 @@ public class RegisterServlet extends HttpServlet {
 		//private String uid;
 		user.setUid(CommonsUtils.getUUID());
 		//private String telephone;
-		user.setBirthday(null);
 		user.setTelephone(null);
 		//private int state;//是否激活
 		user.setState(0);

@@ -15,7 +15,7 @@ public class UserDao {
 		QueryRunner runner = new QueryRunner(DataSourceUtils.getDataSource());
 		String sql = "insert into user values(?,?,?,?,?,?,?,?,?,?)";
 		int update = runner.update(sql, user.getUid(),user.getUsername(),user.getPassword(),
-				user.getName(),user.getEmail(),user.getTelephone(),user.getBirthday(),
+				user.getName(),user.getEmail(),user.getTelephone(),new java.sql.Date(user.getBirthday().getTime()),
 				user.getSex(),user.getState(),user.getCode());
 		return update;
 	}
