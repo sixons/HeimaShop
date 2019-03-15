@@ -6,26 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="105c09ab-3a3d-488e-aa6d-dd81536876f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/web/servlet/AdminServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/web/servlet/AdminServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/web/servlet/CallbackServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/web/servlet/CallbackServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin/left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin/left.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/order_info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/order_info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/web/servlet/AdminServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/web/servlet/AdminServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/web/servlet/CallbackServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/web/servlet/CallbackServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/admin/left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/admin/left.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/order_info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/order_info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/HeimaShop0213-1.0-SNAPSHOT/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/web/servlet/AdminServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/web/servlet/AdminServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/itheima/web/servlet/CallbackServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itheima/web/servlet/CallbackServlet.class" afterDir="false" />
-    </list>
+    <list default="true" id="105c09ab-3a3d-488e-aa6d-dd81536876f7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/web/servlet/AdminServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+            <state relative-caret-position="375">
+              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -293,7 +274,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="50" />
     <option name="y" value="126" />
     <option name="width" value="1230" />
@@ -826,12 +807,12 @@
       <workItem from="1552610828346" duration="7696000" />
       <workItem from="1552624655059" duration="13008000" />
       <workItem from="1552647928008" duration="2253000" />
-      <workItem from="1552650235466" duration="688000" />
+      <workItem from="1552650235466" duration="1112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50903000" />
+    <option name="totallyTimeSpent" value="51327000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -843,7 +824,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889135" visible="true" weight="0.19369973" />
       <window_info id="Structure" order="1" sideWeight="0.50222224" side_tool="true" weight="0.1427614" />
@@ -1240,8 +1222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/web/servlet/AdminServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        <state relative-caret-position="375">
+          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>
